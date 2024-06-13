@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    background:url("./snake\ bg.png");
+    background-size: cover;
+       
+}
+
+h2{
+    color: #5220af;
+}
+
+#msg{
+    margin-bottom: 2em;
+}
+
+#gameboard{
+    border: 3px solid;
+   
+}
+
+#score{
+    margin-top: 1em;
+    font-size: 20px;
+}
